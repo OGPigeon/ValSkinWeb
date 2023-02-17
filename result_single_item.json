@@ -1,0 +1,81 @@
+{
+    "uuid": "97af88e4-4176-9fa3-4a26-57919443dab7",
+    "displayName": "Glitchpop Odin",
+    "themeUuid": "5b014f36-414b-4703-9c65-1876c630feaa",
+    "contentTierUuid": "e046854e-406c-37f4-6607-19a9ba8426fc",
+    "displayIcon": "https://media.valorant-api.com/weaponskins/97af88e4-4176-9fa3-4a26-57919443dab7/displayicon.png",
+    "wallpaper": null,
+    "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/HMG/Cyberpunk/HeavyMachineGun_Cyberpunk_PrimaryAsset",
+    "chromas": [
+      {
+        "uuid": "9667983e-4c8c-e5b2-68d7-be84f9b3d46c",
+        "displayName": "Glitchpop Odin",
+        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/9667983e-4c8c-e5b2-68d7-be84f9b3d46c/displayicon.png",
+        "fullRender": "https://media.valorant-api.com/weaponskinchromas/9667983e-4c8c-e5b2-68d7-be84f9b3d46c/fullrender.png",
+        "swatch": "https://media.valorant-api.com/weaponskinchromas/9667983e-4c8c-e5b2-68d7-be84f9b3d46c/swatch.png",
+        "streamedVideo": null,
+        "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/HMG/Cyberpunk/Chromas/Standard/HeavyMachineGun_Cyberpunk_Standard_PrimaryAsset"
+      },
+      {
+        "uuid": "0b30b3e8-4696-7b7c-fed2-50b34234965a",
+        "displayName": "Glitchpop Odin Level 4\r\n(Variant 1 Blue)",
+        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/0b30b3e8-4696-7b7c-fed2-50b34234965a/displayicon.png",
+        "fullRender": "https://media.valorant-api.com/weaponskinchromas/0b30b3e8-4696-7b7c-fed2-50b34234965a/fullrender.png",
+        "swatch": "https://media.valorant-api.com/weaponskinchromas/0b30b3e8-4696-7b7c-fed2-50b34234965a/swatch.png",
+        "streamedVideo": null,
+        "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/HMG/Cyberpunk/Chromas/Blue/HeavyMachineGun_Cyberpunk_Blue_PrimaryAsset"
+      },
+      {
+        "uuid": "54caeb7f-4fc4-6adb-45a6-cfb6202d9c24",
+        "displayName": "Glitchpop Odin Level 4\r\n(Variant 2 Red)",
+        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/54caeb7f-4fc4-6adb-45a6-cfb6202d9c24/displayicon.png",
+        "fullRender": "https://media.valorant-api.com/weaponskinchromas/54caeb7f-4fc4-6adb-45a6-cfb6202d9c24/fullrender.png",
+        "swatch": "https://media.valorant-api.com/weaponskinchromas/54caeb7f-4fc4-6adb-45a6-cfb6202d9c24/swatch.png",
+        "streamedVideo": null,
+        "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/HMG/Cyberpunk/Chromas/Red/HeavyMachineGun_Cyberpunk_Red_PrimaryAsset"
+      },
+      {
+        "uuid": "bba7f46f-41ee-9e6c-c37a-dca8ee4bf50e",
+        "displayName": "Glitchpop Odin Level 4\r\n(Variant 3 Gold)",
+        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/bba7f46f-41ee-9e6c-c37a-dca8ee4bf50e/displayicon.png",
+        "fullRender": "https://media.valorant-api.com/weaponskinchromas/bba7f46f-41ee-9e6c-c37a-dca8ee4bf50e/fullrender.png",
+        "swatch": "https://media.valorant-api.com/weaponskinchromas/bba7f46f-41ee-9e6c-c37a-dca8ee4bf50e/swatch.png",
+        "streamedVideo": null,
+        "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/HMG/Cyberpunk/Chromas/Gold/HeavyMachineGun_Cyberpunk_Gold_PrimaryAsset"
+      }
+    ],
+    "levels": [
+      {
+        "uuid": "549b06bb-4704-25ce-19d5-c9b70b10de19",
+        "displayName": "Glitchpop Odin",
+        "levelItem": null,
+        "displayIcon": "https://media.valorant-api.com/weaponskinlevels/549b06bb-4704-25ce-19d5-c9b70b10de19/displayicon.png",
+        "streamedVideo": "https://valorant.dyn.riotcdn.net/x/videos/release-05.12/72c8af91-f9f9-4044-801c-3e73ee2f2aa1_default_universal.mp4",
+        "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/HMG/Cyberpunk/HeavyMachineGun_Cyberpunk_Lv1_PrimaryAsset"
+      },
+      {
+        "uuid": "3e7d08f9-4067-1abe-8159-87b8e31fc463",
+        "displayName": "Glitchpop Odin Level 2",
+        "levelItem": "EEquippableSkinLevelItem::VFX",
+        "displayIcon": "https://media.valorant-api.com/weaponskinlevels/3e7d08f9-4067-1abe-8159-87b8e31fc463/displayicon.png",
+        "streamedVideo": "https://valorant.dyn.riotcdn.net/x/videos/release-05.12/92c68b11-5e4c-48a7-acdd-32cd8dca7f01_default_universal.mp4",
+        "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/HMG/Cyberpunk/HeavyMachineGun_Cyberpunk_Lv2_PrimaryAsset"
+      },
+      {
+        "uuid": "ca91d540-4d2d-4946-70bd-97aae8117306",
+        "displayName": "Glitchpop Odin Level 3",
+        "levelItem": "EEquippableSkinLevelItem::VFX",
+        "displayIcon": "https://media.valorant-api.com/weaponskinlevels/ca91d540-4d2d-4946-70bd-97aae8117306/displayicon.png",
+        "streamedVideo": "https://valorant.dyn.riotcdn.net/x/videos/release-05.12/18da6f4b-bb95-4158-9e8e-b785e4ba25d0_default_universal.mp4",
+        "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/HMG/Cyberpunk/HeavyMachineGun_Cyberpunk_Lv3_PrimaryAsset"
+      },
+      {
+        "uuid": "8c95559d-44fb-544d-00d7-8192ed38b17a",
+        "displayName": "Glitchpop Odin Level 4",
+        "levelItem": "EEquippableSkinLevelItem::Finisher",
+        "displayIcon": "https://media.valorant-api.com/weaponskinlevels/8c95559d-44fb-544d-00d7-8192ed38b17a/displayicon.png",
+        "streamedVideo": "https://valorant.dyn.riotcdn.net/x/videos/release-05.12/1f8a6fe7-06a4-4cf4-8d1a-e4db58a0f700_default_universal.mp4",
+        "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/HMG/Cyberpunk/HeavyMachineGun_Cyberpunk_Lv4_PrimaryAsset"
+      }
+    ]
+  }
