@@ -7,7 +7,11 @@ This website's main feature is to see the skins in Valorant and its different le
 1. Search for skin with autocomplete
 2. Using categories to look for skins
 # Screenshots
-![My Image](pics/Capture.png)
+![My Image](pics/Capture.PNG)
+![My Image](pics/1.PNG)
+![My Image](pics/2.PNG)
+![My Image](pics/3.PNG)
+![My Image](pics/4.PNG)
 # Updates
 Adding Valorant stats as a tab and also Valorant news/esports
 # Refrences
